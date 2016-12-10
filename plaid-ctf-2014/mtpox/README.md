@@ -51,7 +51,7 @@ auth=b%3A0%3B
 hsh=ef16c2bffbcf0b7567217f292f9c2a9a50885e01e002fa34db34c0bb916ed5c3
 ```
 
-The value for `auth` makes sense, because in PHP, `false` serializes to 'b:0;`, and `true` serializes to `b:1;`:
+The value for `auth` makes sense, because in PHP, `false` serializes to `'b:0;`, and `true` serializes to `b:1;`:
 
 ```bash
 $ php -r 'echo serialize(false);'
@@ -282,3 +282,7 @@ Query failed: Duplicate entry ':gcy:flag{phpPhPphpPPPphpcoin}:vup:1' for key 'gr
 * <https://blog.skullsecurity.org/2014/plaidctf-web-150-mtpox-hash-extension-attack>
 * <http://achatz.me/plaid-ctf-mt-pox/>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/mtpox)
+* <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/mtpox/WRITEUP-arthurdent.md>
+* [Indonese](http://blog.rentjong.net/2014/04/plaidctf2014-write-up-mtpox-web150.html)
+* [Russian](http://blog.nostr.ru/2014/04/mtpox-web-150-pts-plague-has-traveled.html)
+* <https://systemoverlord.com/blog/2014/04/14/plaidctf-mtpox/>

@@ -12,6 +12,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* (none yet)
+* http://www.synacktiv.com/ressources/defcon-ctf-2014-quals-dosfun4u-writeup.pdf

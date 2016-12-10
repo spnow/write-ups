@@ -16,9 +16,9 @@ When you drink _Wine_ in Choose Your Pwn Adventure 2, you get a slight damage re
 
 The flag is `The Drunken Master can bear any trial`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>
 * <http://lockboxx.blogspot.com/2014/01/ghost-in-shellcode-2014-ctf-writeup.html>
 * <http://quangntenemy.blogspot.com/2014/01/ghost-in-shellcode-2014.html>
-* <http://tasteless.se/2014/01/gits-2014-unbearable-pwn-adventure-75>
+* <http://tasteless.eu/2014/01/gits-2014-unbearable-pwn-adventure-75>

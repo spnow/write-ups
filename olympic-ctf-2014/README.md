@@ -1,7 +1,7 @@
 # Olympic CTF 2014
 
 * <https://olympic-ctf.ru/>
-* [Scoreboard](https://olympic-ctf.ru/scoreboard)
+* [Scoreboard](https://olympic-ctf.ru/scoreboard) or [local alternative](scoreboard.txt)
 * [Olympic CTF 2014 tasks and write-ups @ CTFTime.org](https://ctftime.org/event/130/tasks/)
 
 ## Completed write-ups
@@ -12,9 +12,8 @@
 * [Make similar](make-similar)
 * [Trivial](trivial)
 
-## Incomplete write-ups
+## External write-ups only
 
-* [20lines](20lines)
 * [Aski](aski)
 * [Echof](echof)
 * [Elf Quest 2](elf-quest-2)
@@ -27,10 +26,14 @@
 * [LHC](lhc)
 * [mic](mic)
 * [Out there](out-there)
-* [PRITSLAMA](pritslama)
-* [Remote Shellcoding Appliance](remote-shellcoding-appliance)
 * [RPC](rpc)
 * [Welcome to Forensics](welcome-to-forensics)
 * [xnginx](xnginx)
 * [zbin](zbin)
 * [zpwn](zpwn)
+
+## Missing write-ups
+
+* [20lines](20lines)
+* [PRITSLAMA](pritslama)
+* [Remote Shellcoding Appliance](remote-shellcoding-appliance)
